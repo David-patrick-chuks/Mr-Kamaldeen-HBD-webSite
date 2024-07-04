@@ -43,7 +43,7 @@ export const Card = () => {
           </div>
         </div>
         <div className="lg:w-[100%]">
-          <h1 className=" px-3 text-[4px] font-semibold ">6,585,209 likes</h1>
+          <h1 className=" px-3 text-xs font-semibold ">6,585,209 likes</h1>
           <h1 className=" pb-1 px-3 text-xs">
             <span className="font-semibold">David_chuks </span> Happy Birthday{" "}
             <span className="font-semibold">Mr Kamaldeen</span>, Thank you for
