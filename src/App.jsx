@@ -19,7 +19,7 @@ function App() {
         <Loader />
       ) : (
         <>
-          <div className=" relative bg-gradient-to-tr from-stone-500 to-stone-800 flex justify-center w-screen h-fit items-center ">
+          <div className=" relative bg-gradient-to-tr from-stone-500 to-stone-800 flex justify-center w-screen h-[100%] items-center ">
             <Wish />
             <Card />
           </div>
