@@ -31,7 +31,7 @@ export const Card = () => {
         <div className=" lg:w-[100%]">
           <img src={kenFace} />
         </div>
-        <div className="lg:w-[100%] flex justify-between items-center py-2 px-3">
+        <div className="lg:w-[100%] flex justify-between items-center pt-2 pb-1 px-3">
           <div className="flex gap-2 items-center">
             <AiFillHeart className="text-yellow-700" size={25} />
             <IoPaperPlaneOutline />
@@ -43,7 +43,7 @@ export const Card = () => {
           </div>
         </div>
         <div className="lg:w-[100%]">
-          <h1 className=" px-3 text-xs font-semibold ">6,585,209 likes</h1>
+          <h1 className=" px-3 pb-1 text-xs font-semibold ">6,585,209 likes</h1>
           <h1 className=" pb-1 px-3 text-xs">
             <span className="font-semibold">David_chuks </span> Happy Birthday{" "}
             <span className="font-semibold">Mr Kamaldeen</span>, Thank you for
