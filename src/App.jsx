@@ -10,7 +10,7 @@ function App() {
     setScreenLoading(true);
     setTimeout(() => {
       setScreenLoading(false);
-    }, 300);
+    }, 2000);
   }, []);
 
   return (
