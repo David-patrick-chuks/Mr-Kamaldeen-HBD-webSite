@@ -8,7 +8,7 @@ import { BiComment } from 'react-icons/bi'
 export const Card = () => {
     return (
         <div className='w-screen h-screen lg:h-fit overflow-hidden lg:w-fit lg:p2 p-2 flex items-center justify-center '>
-            <div className=' shadow-md lg:w-3/12 lg:h-[95vh] overflow-hidden rounded-xl bg-slate-200'>
+            <div className=' shadow-md lg:w-[23%] lg:h-fit overflow-hidden rounded-xl bg-slate-200'>
                 <div className='lg:w-[100%] px-4 pt-3 pb-2 flex  items-center justify-between'>
                     <div className='flex gap-[6px]'>
                         <img src={chuksFace} className=' rounded-full w-6 h-6 border border-white outline outline-yellow-800' />
