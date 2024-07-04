@@ -19,7 +19,7 @@ export const Card = () => {
               <h1 className="text-[16px] leading-none font-semibold ">
                 David_chuks
               </h1>
-              <h1 className="text-[1px] leading-none font-mono ">
+              <h1 className="text-[13px] leading-none font-mono ">
                 Web developer
               </h1>
             </div>
@@ -44,13 +44,13 @@ export const Card = () => {
         </div>
         <div className="lg:w-[100%]">
           <h1 className=" px-3 text-[4px] font-semibold ">6,585,209 likes</h1>
-          <h1 className=" pb-1 px-3 text-[4px]">
+          <h1 className=" pb-1 px-3 text-[13px]">
             <span className="font-semibold">David_chuks </span> Happy Birthday{" "}
             <span className="font-semibold">Mr Kamaldeen</span>, Thank you for
             your guidance and support. wishing you a wonderful day and a year
             filled with success!.
           </h1>
-          <p className="pb-3 px-3 text-[1px] text-gray-600 ">July 4</p>
+          <p className="pb-3 px-3 text-[13px] text-gray-600 ">July 4</p>
         </div>
       </div>
     </div>
