@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
-import { Loader } from "./Loader"
+import { Loader } from "./Loader";
 import { Card } from "./Card";
 import { Wish } from "./Wish";
-
 
 function App() {
   const [screenLoading, setScreenLoading] = useState(false);
@@ -27,7 +26,7 @@ function App() {
         </>
       )}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
